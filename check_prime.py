@@ -1,3 +1,6 @@
+"""
+this program checks the number entered by user is either prime or not.
+"""
 num = int(input('Enter The Number to Check prime no:'))
 for n in range(2,num+1):
 	if num != n:
